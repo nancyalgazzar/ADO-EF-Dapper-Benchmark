@@ -48,14 +48,7 @@ Each scenario is implemented using:
 
 ## 📂 Project Structure
 
-The project is organized into separate classes for each benchmark scenario:
-
-- Classes for **Select All (100 rows)**  
-- Classes for **Select Single Record**  
-- Classes for **Update Operations**  
-- Classes for **Select All (1000 rows)**  
-- Classes for **Joined Tables Queries**  
-
+The project is organized into separate classes for each benchmark scenario.
 Each class contains implementations using the three data access methods.
 
 ---
